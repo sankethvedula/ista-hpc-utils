@@ -1,0 +1,1 @@
+Interactive job: srun -N 1 --partition=gpu --time=2:00:00 --gres=gpu:1 --mem=30G --pty bash
